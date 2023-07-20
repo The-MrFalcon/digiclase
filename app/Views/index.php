@@ -144,20 +144,24 @@
          <h1 class="services_taital text-center">Nosso Serviços </h1>
          <p class="services_text text-center">O que podemos fazer para você?</p>
          <div class="services_section_2">
-            <div class="row">
-               <div class="servico col-md-3 bounceIn" data-toggle="modal" data-target="#web">
+            <div class="row justify-content-center">
+               <div class="servico col-md-4 bounceIn" data-toggle="modal" data-target="#web">
                   <div><img src="images/site-3.jpg" class="services_img" style="border-radius: 10%;"></div>
                   <div class="btn_main" data-toggle="modal" data-target="#web"><a>Web Design</a></div>
                </div>
-               <div class="servico col-md-3 bounceIn" data-toggle="modal" data-target="#mark">
+               <div class="servico col-md-4 bounceIn" data-toggle="modal" data-target="#financeiro">
+                  <div><img src="images/site-financeiro.jpg" class="services_img" style="border-radius: 10%;"></div>
+                  <div class="btn_main " data-toggle="modal" data-target="#financeiro"><a>Financeiro</a></div>
+               </div>
+               <div class="servico col-md-4 bounceIn" data-toggle="modal" data-target="#mark">
                   <div><img src="images/site-5.jpg" class="services_img" style="border-radius: 10%;"></div>
                   <div class="btn_main " data-toggle="modal" data-target="#mark"><a>Marketing Digital</a></div>
                </div>
-               <div class="servico col-md-3 bounceIn" data-toggle="modal" data-target="#rede">
+               <div class="servico col-md-4 bounceIn" data-toggle="modal" data-target="#rede">
                   <div><img src="images/site-7.jpg" class="services_img" style="border-radius: 10%;"></div>
                   <div class="btn_main" data-toggle="modal" data-target="#rede"><a>Redes Sociais</a></div>
                </div>
-               <div class="servico col-md-3 bounceIn" data-toggle="modal" data-target="#tra">
+               <div class="servico col-md-4 bounceIn" data-toggle="modal" data-target="#tra">
                   <div><img src="images/site-6.jpg" class="services_img" style="border-radius: 10%;"></div>
                   <div class="btn_main" data-toggle="modal" data-target="#tra"><a>Tráfego Pago</a></div>
                </div>
@@ -434,6 +438,38 @@
       </div>
    </div>
    <!-- Fim Modal Web Design -->
+   <!-- Início Modal Financeiro -->
+   <div class="modal fade" id="financeiro" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+         <div class="modal-content">
+            <div class="modal-header">
+               <h1 class="modal-title text-center" id="exampleModalLabel">Financeiro</h1>
+               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;
+               </button>
+            </div>
+            <div class="modal-body">
+               <div class="row our-portfolio">
+                  <div class="item col-lg-6 gap-1 card servico">
+                     <div class="rounded-pill d-flex align-items-center justify-content-center icon" style="width: 70px;height: 70px;">
+                        <i class="fas fa-chart-line text-white"></i>
+                     </div>
+                     <h4 class="text-center">Investimento</h4>
+                     <p class="text-start">Investir é a chave para construir um futuro financeiramente sólido e próspero. É uma estratégia sábia para qualquer pessoa que deseje maximizar seu potencial financeiro. Ao investir, você coloca o seu dinheiro para trabalhar por você, gerando renda passiva e oportunidades de crescimento.</p>
+                  </div>
+                  <div class="item col-lg-6 gap-1 card servico">
+                     <div class="rounded-pill d-flex align-items-center justify-content-center icon" style="width: 70px;height: 70px;">
+                        <i class="fa-solid fa-sack-dollar text-white"></i>
+                     </div>
+                     <h4 class="text-center">Financiamento</h4>
+                     <p class="text-start">O financiamento é a solução para alcançar seus objetivos sem ter todo o dinheiro de imediato. Seja para expandir seu negócio, investir em tecnologia ou realizar projetos pessoais, o financiamento impulsiona suas aspirações com recursos disponíveis de forma ágil e conveniente.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <!-- Fim Modal Financeiro -->
    <!-- Início Modal Marketing -->
    <div class="modal fade" id="mark" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
@@ -503,7 +539,7 @@
       </div>
    </div>
    <!-- Fim Modal Redes Sociais -->
-   <!-- Início Modal Tráfego Pago  --> 
+   <!-- Início Modal Tráfego Pago  -->
    <div class="modal fade" id="tra" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
          <div class="modal-content">
