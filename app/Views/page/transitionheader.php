@@ -1,0 +1,1 @@
+<img src="images/wave-haikei.svg">
