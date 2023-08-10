@@ -10,8 +10,8 @@
             <div class="row">
                 <div class="col-2"></div>
                 <div class="col-8">
-                    <!-- <img class="img-fluid mb-4 p-4 rounded text-center bg-gold bg-gradient" src="img/logo.png" alt=""> -->
-                    <h1 class="banner_taital img-fluid mb-4 p-4 rounded text-center bg-gold bg-gradient" style="color: #ffffff;">DigiClase</h1>
+                    <img class="img-fluid mb-2 p-2 border-silver rounded text-center" style="height:175x;width:auto" src="images/logo/logo-originalPNG.png" alt="">
+                    <!-- <h1 class="banner_taital img-fluid mb-4 p-4 rounded text-center bg-gold bg-gradient" style="color: #ffffff;">DigiClase</h1> -->
                 </div>
             </div>
             <p class="mb-2 text-white text-center">Na Digiclase, nossa missão é fornecer soluções financeiras sólidas e personalizadas para ajudar nossos clientes a alcançar seus objetivos e prosperar financeiramente.</p>
@@ -22,7 +22,7 @@
             </div>
             <h2 class="text-white text-center mb-4">Mapa</h2>
             <div class="break green"></div>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2174.8984312752495!2d-46.57471593523905!3d-23.54226233691379!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5ec1e4a04849%3A0x24b26c065077724a!2sR.%20Cel.%20Lu%C3%ADs%20Americano%2C%20266%20-%20Vila%20Azevedo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003308-020%2C%20Brasil!5e0!3m2!1spt-BR!2sus!4v1678896812335!5m2!1spt-BR!2sus" width="100%" height="300" class="rounded" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2174.8984312752495!2d-46.57471593523905!3d-23.54226233691379!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5ec1e4a04849%3A0x24b26c065077724a!2sR.%20Cel.%20Lu%C3%ADs%20Americano%2C%20266%20-%20Vila%20Azevedo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003308-020%2C%20Brasil!5e0!3m2!1spt-BR!2sus!4v1678896812335!5m2!1spt-BR!2sus" width="100%" height="300" class="rounded border-gold" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <div class="col-lg-4 text-center col-md-6">
             <div class="bg-gold bg-gradient rounded-pill d-flex align-items-center justify-content-center mb-3" style="width: 80px; height: 80px;transform:translate(148%,0%)">

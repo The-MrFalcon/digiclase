@@ -3,8 +3,8 @@
         <div class="mobile_menu">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="logo_mobile"><a href="#">
-                        <!-- <img src="images/logo.png"></a> -->
-                        <h1 class="banner_taital" style="color: #ffffff;">DigiClase</h1>
+                        <img src="images/logo/logo-originalPNG.png"></a>
+                    <!-- <h1 class="banner_taital" style="color: #ffffff;">DigiClase</h1> -->
                 </div>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon">
@@ -31,8 +31,9 @@
             </nav>
         </div>
         <div class="container-fluid">
-            <div class="logo"><a href="#">
-                    <h1 class="banner_taital" style="color: #ffffff;">DigiClase</h1>
+            <div class="logo d-flex justify-content-center"><a href="#">
+                    <img class="banner_taital"  style="height:250px;width:auto" src="images/logo/logo-originalPNG.png"></a>
+                <!-- <h1 class="banner_taital" style="color: #ffffff;">DigiClase</h1> -->
                 </a></div>
             <div class="menu_main">
                 <ul>
