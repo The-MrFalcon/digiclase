@@ -32,7 +32,7 @@
             <div class="break red"></div>
             <!-- <img class="img-fluid break" src="images/wave-haikei.svg" alt=""> -->
             <a class="mb-2 badge btn btn-outline-dark wow fadeIn" href="https://goo.gl/maps/ws1tt7AbzLQ8u42v5" target="_blank" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeIn;"><i class="fa fa-map-marker-alt me-2"></i>Rua Coronel Luís Americano 266 - Vila Azevedo <br> SP. CEP: 03308-020</a>
-            <a class="mb-2 btn btn-outline-dark wow fadeIn" href="https://api.whatsapp.com/send?phone=5511989626678&text=Olá%2C%20gostaria%20de%20pedir%20um%20orçamento" target="_blank" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;"><i class="fa fa-phone-alt me-2"></i>11 989626678</a>
+            <a class="mb-2 btn btn-outline-dark wow fadeIn" href="https://api.whatsapp.com/send?phone=5511989626678&text=Olá%2C%20gostaria%20de%20pedir%20um%20orçamento" target="_blank" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;"><i class="fa fa-phone-alt me-2"></i>11 98962-6678</a>
             <a class="mb-2 btn btn-outline-dark wow fadeIn" href="mailto:contato@digiclase.com.br" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;"><i class="fa fa-envelope me-2"></i>contato@digiclase.com.br</a>
             <div class="d-flex pt-2 mb-4" style="justify-content: center;">
                 <a class="btn btn-sm-square rounded-circle bg-gold bg-gradient text-gold me-1" data-wow-delay="0.1s" href="https://www.instagram.com/digi.clase/"><i class="fab fa-instagram"></i></a>
